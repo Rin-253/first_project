@@ -1,0 +1,33 @@
+table{
+    width: 800px;
+    height: 600px;
+    text-align: center;
+}
+img{
+    border-radius: 180px;
+    width: 100px;
+    height: 100px;
+}
+p{
+    background-color: rgb(29, 151, 111);
+    text-align: center;
+    font-size: 50px;
+}
+#row2{
+    background-color: antiquewhite;
+}
+.row{
+    background-color: rgb(123, 202, 89);
+}
+#t{
+    background-color: rgb(245, 163, 163);
+}
+#p{
+    background-color: rgb(153, 239, 244);
+}
+#w{
+    background-color: rgb(216, 63, 63);
+}
+.col1{
+    background-color: rgb(210, 142, 236);
+}

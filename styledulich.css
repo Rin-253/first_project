@@ -1,0 +1,24 @@
+table{
+    width: 350px;
+    height: 500px;
+    background-color: beige;
+}
+button{
+    float: left;
+    border-radius: 45px;
+    background-color: rgb(49, 64, 198);
+    color: white;
+}
+select{
+    color: rgb(55, 127, 204);
+}
+.kt{
+    width: 230px;
+}
+fieldset{
+    width: 320px;
+    background-color: bisque;
+}
+h3{
+    color: brown;
+}
