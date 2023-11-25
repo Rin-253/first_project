@@ -1,0 +1,56 @@
+.all{
+    width: 1000px;
+    height: 2000px;
+   
+}
+.banner{
+    width: 1000px;
+    height: 10px;
+}
+.khoiduoi{
+    width: 1000px;
+    height: 1200px;
+    margin-top: 70px;
+    float: left;
+}
+.menu{
+    width: 50px;
+    float: left;
+}
+
+.khoiphai{
+    width: 610px;   
+    float: left;
+    height: 1200px;
+    padding-left: 20px;
+    margin-left: 40px;
+    background-color: rgb(192, 214, 103);
+}
+.text{
+    width: 500px;
+    float: left;
+}
+.subdiv{
+    background-color: rgb(135, 176, 14);
+    width: 100px;   
+    /* margin-left: 520px; */
+    float: right;
+    height: 1200px;
+}
+.td{
+    color: rgb(61, 139, 26);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+.return{
+    color: blue;
+    font-size: 20px;
+    float: right;
+    margin-top: 100px;
+}
+.home{
+    color: rgb(201, 61, 197);
+    font-size: 20px;
+    float: right;
+    margin-top: 100px;
+}

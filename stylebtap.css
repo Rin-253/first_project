@@ -1,0 +1,56 @@
+.all{
+    width: 1000px;
+    height: 500px;
+   
+}
+.banner{
+    width: 1000px;
+    height: 10px;
+}
+.khoiduoi{
+    width: 1000px;
+    height: 500px;
+    margin-top: 70px;
+    float: left;
+}
+.menu{
+    width: 50px;
+    float: left;
+}
+
+.khoiphai{
+    width: 600px;   
+    float: left;
+    height: 610px;
+    margin-left: 40px;
+    background-color: rgb(170, 131, 80);
+}
+
+.anhduoi{
+    width: 250px;
+    height: 400px;
+    margin-left: 350px;
+}
+h1{
+    color: black;
+    font-size: 40px;
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.vb{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding-left: 20px;
+    width: 270px;
+    float: left;
+    color: black;
+}
+.anhcuoi{
+    margin-top: 252px;
+    height: 152px;
+    width: 88px;
+}
+.anhcuoi1{
+    width: 210px;
+   
+}

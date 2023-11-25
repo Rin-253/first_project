@@ -1,0 +1,120 @@
+.all{
+    width: 1000px;
+    height: 500px;
+   
+}
+.banner{
+    width: 1000px;
+    height: 10px;
+}
+.khoiduoi{
+    width: 1000px;
+    height: 500px;
+    margin-top: 70px;
+    float: left;
+}
+.menu{
+    width: 50px;
+    float: left;
+}
+
+.khoiphai{
+    width: 610px;   
+    float: left;
+    height: 610px;
+    margin-left: 37px;
+    background-color: rgb(170, 131, 80);
+}
+.td{
+    color: black;
+    font-size: 30px;
+    padding-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.vb{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding-left: 20px;
+    margin-left: 10px;
+    width: 270px;
+    margin-top: 15px;
+    float: left;
+    color: rgb(29, 90, 12);
+}
+.text{
+    width: 350px;
+    float: left;
+
+}
+.anhcuoi{
+    margin-top: 247px;
+    height: 160px;
+    width: 88px;
+}
+.anhcuoi1{
+    width: 210px;
+    margin-top: 178px;
+}
+.kk{
+    width: 240px;
+    float: right;
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 500px;
+}
+#khungtrong{
+    width: 200px;
+    margin-right: 20px;
+    float: right;
+    height: 20px;
+    background-color:  white;
+}
+#khungtrong0{
+    width: 200px;
+    margin-right: 20px;
+    float: right;
+    margin-top: 15px;
+    height: 20px;
+    background-color:  white;
+}
+#khungtrong1{
+    width: 100px;
+    margin-right: 20px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 21px;
+    height: 20px;
+    background-color:  white;
+}
+#khungtrong3{
+    width: 200px;
+    margin-right: 20px;
+    float: right;
+    margin-top: 20px;
+    height: 20px;
+    background-color:  white;
+}
+#nuoc{
+    margin-left: 31px;
+    width: 118px;
+    float: left;
+    color: rgb(29, 90, 12);;
+    height: 37px;
+    margin-top: 10px;
+}
+#khungtrong2{
+    width: 200px;
+    margin-right: 20px;
+    float: right;
+    margin-top: 10px;
+    height: 30px;
+    background-color:  white;
+}
+#dongy{
+    color: black;
+    
+    float: left;
+    margin-top: 10px;
+    margin-left: 21px;
+    
+}
