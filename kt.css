@@ -1,0 +1,104 @@
+.all{
+    width: 1300px;
+    height: 1400px;
+}
+.banner{
+    background-color: rgb(235, 247, 250);
+    width: 1300px;
+    height: 70px;
+}
+ul{
+    background-color: rgb(235, 247, 250);
+    float: right;
+    width: 750px;
+    display: flex;
+    list-style-type: none;
+    height: 50px;
+}
+ul li:hover{
+    background-color: rgb(223, 167, 142);
+    color: white;
+
+}
+ul li{
+    color: black;
+    width: 120px;
+    height: 27px;
+    float: right;
+    padding-top: 17px;
+    text-align: center;
+    background-color: rgb(235, 247, 250);
+}
+#logo{
+    width: 150px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 100px;
+    background-color: rgb(235, 247, 250);
+}
+#c{
+    color: black;
+
+}
+.a{
+    margin-top: 10px;
+}
+hr{
+    width: 1300px;
+}
+.khoigiua{
+    width: 1300px;
+    height: 1000px;
+    float: left;
+}
+.khoitext{
+    margin-top: 50px;
+    padding-left: 50px;
+    float: left;
+    width: 600px;
+    height: 400px;
+}
+.text{
+    width: 600px;
+}
+.kt{
+    width: 200px;
+    height: 30px;
+    border-radius: 60px;
+}
+#h{
+    width: 200px;
+    height: 150px;
+    border-radius: 60px;
+}
+button{
+    background-color: aqua;
+    color: black;
+    margin-top: 30px;
+}
+#b{
+    background-color: aqua;
+    width: 500px;
+    height: 450px;
+    margin-top: 50px;
+    float: right;
+}
+#gg{
+    width: 400px;
+    height: 350px;
+    margin-left: 45px;
+}
+#i{
+    width: 250px;
+    height: 300px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 250px;
+    background-color: white;
+}
+.f{
+    background-color: rgb(235, 247, 250);
+    width: 1300px;
+    height: 350px;
+    margin-top: 1000px;
+}
