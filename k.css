@@ -1,0 +1,184 @@
+.all{
+    width: 1800px;
+    height: 1700px;
+    background-color: rgb(230, 224, 224);
+}
+.banner{
+    width: 1800px;
+    height: 70px;
+    float: left;
+    background-color: rgb(230, 224, 224);
+}
+#logo{
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin-left: 250px;
+    color: rgb(185, 95, 72);
+}
+UL{
+    
+    list-style-type: none;
+    display: flex;
+    margin-left: 900px;
+    margin-top: -35px;
+    float: left;
+    width: 700px;
+    height: 80px;
+    background-color: rgb(230, 224, 224);
+    
+}
+ ul li:hover{
+    background-color: rgb(61, 204, 73);
+    color: white;
+
+}
+ul li{
+    color: black;
+    width: 120px;
+    height: 47px;
+    float: right;
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(230, 224, 224);
+}
+.h{
+    width: 1800px;
+    height: 50px;
+    background-color: rgb(230, 224, 224);
+    float: left;
+    
+}
+.contact1{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(209, 161, 149);
+    float: left;
+    
+}
+.contact2{
+    width: 1300px;
+    height: 50px;
+    margin-left: 50px;
+    background-color: rgb(185, 95, 72);
+    float: left;
+    
+}
+.contact3{
+    width: 200px;
+    height: 50px;
+    float: left;
+    margin-left: 50px;
+    background-color: rgb(209, 161, 149);
+    
+}
+h3{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+    
+}
+.khoiduoi{
+    width: 1880px;
+    height: 1000px;
+    float: left;
+}
+#p{
+    width: 700px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 250px;
+    float: left;
+}
+.t{
+    width: 550px;
+    height: 700px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.o{
+    width: 350px;
+    height: 20px;
+    float: right;
+    margin-top: -40px;
+    background-color: rgb(187, 187, 187);
+    border:  2px solid rgb(187, 187, 187);
+}
+.g{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+h4{
+    color: rgb(185, 95, 72);
+    width: 150px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.g{
+    width: 70px;
+    height: 70px; 
+    background-color: brown;
+    border: 2px solid brown;
+}
+
+.k{
+    width: 400px;
+    float: left;
+    margin-left: 250px;
+}
+.j{
+    border:  2px solid rgb(185, 95, 72);
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+button{
+    background-color: rgb(185, 95, 72);
+    color: white;
+    width: 70px;
+    height: 30px;
+    margin-top: 30px;
+    border:  2px solid rgb(185, 95, 72);
+    margin-left: 700px;
+}
+
+.footer1{
+    width: 200px;
+    height: 300px;
+    margin-top: 200px;
+    background-color: rgb(209, 161, 149);
+    float: left;
+    
+}
+.footer2{
+    width: 1300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 200px;
+    background-color: rgb(185, 95, 72);
+    float: left;
+    
+}
+.footer3{
+    width: 200px;
+    height: 300px;
+    margin-top: 200px;
+    float: left;
+    margin-left: 50px;
+    background-color: rgb(209, 161, 149);
+    
+}
+td{
+    width: 500px;
+}
+.icon{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(185, 95, 72);
+}
+.a6{
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
