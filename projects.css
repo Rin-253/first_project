@@ -1,0 +1,189 @@
+.all{
+    width: 1500px;
+    height: 1500px;
+    background-color: antiquewhite;
+}
+.banner{
+    width: 1500px;
+    height: 70px;
+    background-color: rgb(5, 14, 63);
+}
+
+UL{
+    
+    list-style-type: none;
+    display: flex;
+    margin-left: 400px;
+    width: 1000px;
+    height: 70px;
+    background-color: rgb(5, 14, 63);
+    
+}
+ ul li:hover{
+    background-color: rgb(223, 167, 142);
+    color: black;
+
+}
+ul li{
+    color: white;
+    width: 120px;
+    height: 43px;
+    float: right;
+    padding-top: 27px;
+    text-align: center;
+    background-color: rgb(5, 14, 63);
+}
+.tk{
+    width: 40px;
+    height: 40px;
+    margin-top: 13px;
+    margin-left: 100px;
+}
+#logo{
+    width: 130px;
+    height: 100px;
+    margin-top: -60px;
+    margin-left: 100px;
+}
+.khoigiua{
+    width: 1500px;
+    height: 1400px;
+    float: left;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+#ul{
+    
+    list-style-type: none;
+    display: flex;
+    margin-left: 250px;
+    width: 1000px;
+    height: 70px;
+    background-color: antiquewhite;
+    
+}
+#ul li:hover{
+    background-color: rgb(176, 73, 24);
+    color: white;
+
+}
+#ul li{
+    color: black;
+    width: 180px;
+    height: 43px;
+    float: right;
+    padding-top: 27px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+#r{
+    width: 1500px;
+    height: 400px;
+    
+}
+.anh{
+    width: 330px;
+    height: 380px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#v{
+    margin-top: 50px;
+    width: 1500px;
+    height: 100px;
+}
+.nut1{
+    width: 50px;
+    height: 50px;
+    border-radius: 360px;
+    background-color: rgb(176, 73, 24);
+    margin-top: 190px;
+    padding-top: 25px;
+    padding-left: 25px;
+    float: left;
+    margin-left: 50px;
+}
+.nut2{
+    width: 50px;
+    height: 50px;
+    border-radius: 360px;
+    background-color: rgb(176, 73, 24);
+    margin-top: 190px;
+    padding-top: 25px;
+    padding-left: 25px;
+    float: left;
+    margin-left: 100px;
+}
+button{
+    background-color: rgb(176, 73, 24);
+    border: 2px solid rgb(176, 73, 24);
+    color: white;
+}
+.script{
+    margin-left: 50px;
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    float: left;
+    align-items: center;
+    justify-content: space-between;
+    animation-name: transit;
+    animation-duration: 4s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear 3s;
+    position: relative;
+    z-index: 1;
+    animation-direction: normal;
+}
+.script img{
+    margin-bottom: 100px;
+}
+
+@keyframes transit{
+    0% {right: 0px;}
+    25%{right: 1200px;}
+    50%{left: 1700px;}
+    75%{left: 0px;}
+    100% {}
+}
+.footer{
+    background-color: rgb(5, 14, 63);
+    width: 1500px;
+    height: 250px;
+    margin-top: 1380px;
+}
+.y{
+    
+    width: 1000px;
+    height: 100px;
+    margin-left: 150px;
+    
+}
+.chu{
+    color: white;
+    margin-left: 50px;
+    margin-top: 60px;
+    text-align: center;
+}
+.h{
+    background-color: red; 
+    width: 1500px;
+    height: 56px;  
+}
+#ccuoi{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.anh1{
+    width: 90px;
+    height: 80px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 20px;
+}

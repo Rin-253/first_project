@@ -1,0 +1,47 @@
+.all{
+    width: 1500px;
+    height: 1000px;
+    background-color: white;
+}
+.banner{
+    width: 1500px;
+    height: 70px;
+    background-color: rgb(5, 14, 63);
+}
+
+UL{
+    
+    list-style-type: none;
+    display: flex;
+    margin-left: 400px;
+    width: 1000px;
+    height: 70px;
+    background-color: rgb(5, 14, 63);
+    
+}
+ ul li:hover{
+    background-color: rgb(223, 167, 142);
+    color: black;
+
+}
+ul li{
+    color: white;
+    width: 120px;
+    height: 43px;
+    float: right;
+    padding-top: 27px;
+    text-align: center;
+    background-color: rgb(5, 14, 63);
+}
+.tk{
+    width: 40px;
+    height: 40px;
+    margin-top: 13px;
+    margin-left: 100px;
+}
+#logo{
+    width: 130px;
+    height: 100px;
+    margin-top: -60px;
+    margin-left: 100px;
+}

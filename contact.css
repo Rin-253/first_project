@@ -1,0 +1,124 @@
+.all{
+    width: 1500px;
+    height: 1000px;
+    background-color: white;
+}
+.banner{
+    width: 1500px;
+    height: 70px;
+    background-color: rgb(5, 14, 63);
+}
+
+UL{
+    
+    list-style-type: none;
+    display: flex;
+    margin-left: 400px;
+    width: 1000px;
+    height: 70px;
+    background-color: rgb(5, 14, 63);
+    
+}
+ ul li:hover{
+    background-color: rgb(223, 167, 142);
+    color: black;
+
+}
+ul li{
+    color: white;
+    width: 120px;
+    height: 43px;
+    float: right;
+    padding-top: 27px;
+    text-align: center;
+    background-color: rgb(5, 14, 63);
+}
+.tk{
+    width: 40px;
+    height: 40px;
+    margin-top: 13px;
+    margin-left: 100px;
+}
+#logo{
+    width: 130px;
+    height: 100px;
+    margin-top: -60px;
+    margin-left: 100px;
+}
+.khoitren{
+    width: 1500px;
+    height: 200px;
+    margin-top: 70px;
+}
+h1{
+    text-align: center;
+    padding-top: 70px;
+}
+.khoigiua{
+    width: 1500px;
+    height: 700px;
+    float: left;
+    background-color: rgb(219, 219, 217);
+}
+.p{
+    width: 550px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.input12{
+    width: 200px;
+    height: 30px;
+    margin-left: 50px;   
+}
+.input34{
+    width: 460px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 50px; 
+}
+.button{
+    width: 150px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 210px;
+    color: white;
+    background-color: rgb(5, 14, 63);;
+}
+.footer{
+    background-color: rgb(5, 14, 63);
+    width: 1500px;
+    height: 250px;
+    margin-top: 680px;
+}
+.y{
+    
+    width: 1000px;
+    height: 100px;
+    margin-left: 150px;
+    
+}
+.chu{
+    color: white;
+    margin-left: 50px;
+    margin-top: 60px;
+    text-align: center;
+}
+.h{
+    background-color: red; 
+    width: 1500px;
+    height: 56px;  
+}
+#ccuoi{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.anh1{
+    width: 90px;
+    height: 80px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 20px;
+}
